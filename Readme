@@ -1,6 +1,6 @@
 Azure End-to-End Data Engineering Project 🌟
 -
-![Architecture Diagram]
+![Architecture Diagram] 
 
 This project demonstrates a comprehensive Azure Data Engineering workflow using multiple Azure resources to process and analyze an e-commerce dataset. The dataset consists of 8 files containing details about customers, payments, orders, and other key information. Below is an in-depth description of the project architecture, process, and technologies used.
 
