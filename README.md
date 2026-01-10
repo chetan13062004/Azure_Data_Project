@@ -40,13 +40,11 @@ The data is sourced from:
 
 ---
 
-## Project Architecture 🏗️
+## Project Workflow 🔄
 
 ![Project Architecture](images/resource_1.png)
 
 ---
-
-## Project Workflow 🔄
 
 ### 1️⃣ Data Ingestion – Bronze Layer
 
